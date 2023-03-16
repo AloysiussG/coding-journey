@@ -2,3 +2,8 @@ MY CODING JOURNEY
 - Flowchart (using Raptor) === passed
 - C Language (using DevC++) === passed
 - Java Language (using NetBeans) === CURRENTLY LEARNING
+
+TO-DO
+- Web Development === CURRENTLY LEARNING
+- Mobile Development
+- Game Development
