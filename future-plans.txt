@@ -1,4 +1,4 @@
 FUTURE PLANS
 - Developing my own website
 - Build contact form web app (specific project)
-- Making game
+- Making 2D / 2.5D / 3D game
