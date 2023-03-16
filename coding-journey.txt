@@ -1,0 +1,4 @@
+MY CODING JOURNEY
+- Flowchart (using Raptor) === passed
+- C Language (using DevC++) === passed
+- Java Language (using NetBeans) === CURRENTLY LEARNING
