@@ -1,4 +1,5 @@
 FUTURE PLANS
 - Developing my own website
+  * Learn Javascript Framework
+  * Learn PHP
 - Build contact form web app (specific project)
-- Making 2D / 2.5D / 3D game
